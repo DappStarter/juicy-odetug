@@ -1,0 +1,17 @@
+{
+    "name": "Melodi Music",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/administrator_role": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Melodi",
+        "/category/asset_value_tracking/token/symbol": "MLD",
+        "/category/asset_value_tracking/token/decimals": "8",
+        "/category/asset_value_tracking/token/supply": "72000000",
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "folder",
+        "/category/collection/entity": true
+    }
+}
